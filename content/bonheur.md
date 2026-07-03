@@ -1,39 +1,39 @@
 ---
-category: bonheur
+category: fonctionnalites
 title: Bonheur
 excerpt: L'indicateur qui conditionne ta croissance, tes blasons et tes grèves.
-position: 0
+position: 20
 published: true
 ---
 
-Le bonheur mesure la satisfaction de tes citoyens. C'est l'un des
-indicateurs les plus influents du jeu : il agit sur ta **croissance
+Le bonheur mesure la satisfaction de tes citoyens. C’est l’un des
+indicateurs les plus influents du jeu : il agit sur ta **croissance
 démographique**, sur le nombre de **blasons** dont bénéficie ton armée, et
-déclenche des **grèves** s'il s'effondre.
+déclenche des **grèves** s’il s’effondre.
 
 ## Ce qui fait varier le bonheur
 
-- Ton **taux d'imposition** : trop bas ou trop haut, il pèse sur le moral.
-- La **pollution** : un environnement dégradé mécontente la population.
-- La **guerre** : engager des soldats coûte du bonheur (plus cher en
-  offensive qu'en défensive), et chaque perte au combat aggrave le malus.
+- Ton **taux d’imposition** : trop bas ou trop haut, il pèse sur le moral.
+- La **pollution** : un environnement dégradé mécontente la population.
+- La **guerre** : engager des soldats coûte du bonheur (plus cher en
+  offensive qu’en défensive), et chaque perte au combat aggrave le malus.
 - Un **déficit budgétaire** persistant.
-- À l'inverse, la **santé**, l'**éducation**, certaines **lois**, le type de
+- À l’inverse, la **santé**, l'**éducation**, certaines **lois**, le type de
   ta **merveille** et tes **artéfacts** peuvent le soutenir.
 
 ## Grévistes
 
 Sous un certain seuil de bonheur, une partie de ta population cesse de
-travailler : ce sont les **grévistes**. Tant qu'ils sont présents, ils te
-manquent dans l'économie, la construction de ta merveille et l'armée.
+travailler : ce sont les **grévistes**. Tant qu’ils sont présents, ils te
+manquent dans l’économie, la construction de ta merveille et l’armée.
 Remonter le bonheur est le seul moyen de les faire rentrer.
 
 ## Paliers de blasons
 
-Le bonheur débloque des **paliers de blasons** à mesure qu'il augmente :
-plus ta population est heureuse, plus ton armée gagne en force. C'est un
+Le bonheur débloque des **paliers de blasons** à mesure qu’il augmente :
+plus ta population est heureuse, plus ton armée gagne en force. C’est un
 levier de plus pour ne jamais négliger cet indicateur, même hors période
 de guerre.
 
 > Le seuil de grève exact et les paliers de blasons sont réglables par
-> partie ; consulte l'interface de ta partie en cours.
+> partie ; consulte l’interface de ta partie en cours.
