@@ -1,8 +1,8 @@
 ---
-category: fonctionnalites
+category: nation-societe
 title: Territoire & zones
 excerpt: "Ton espace de jeu : régions, types de terrain, et ce que tes zones habitables permettent."
-position: 90
+position: 40
 published: true
 ---
 

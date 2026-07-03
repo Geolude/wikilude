@@ -1,8 +1,8 @@
 ---
-category: fonctionnalites
+category: progres-ressources
 title: Artéfacts
 excerpt: Des technologies inconnues, rapportées de l'espace, aux effets puissants et temporaires.
-position: 120
+position: 20
 published: true
 ---
 

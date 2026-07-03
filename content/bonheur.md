@@ -1,5 +1,5 @@
 ---
-category: fonctionnalites
+category: nation-societe
 title: Bonheur
 excerpt: L'indicateur qui conditionne ta croissance, tes blasons et tes grèves.
 position: 20

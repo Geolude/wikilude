@@ -1,8 +1,8 @@
 ---
-category: fonctionnalites
+category: progres-ressources
 title: Merveille
 excerpt: Le monument que ta nation construit pour affirmer sa puissance, et son bonus.
-position: 130
+position: 30
 published: true
 ---
 
