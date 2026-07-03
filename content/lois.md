@@ -1,8 +1,8 @@
 ---
-category: fonctionnalites
+category: gouvernance
 title: Lois
 excerpt: Décréter des lois, chacune un arbitrage entre un effet et sa contrepartie.
-position: 40
+position: 10
 published: true
 ---
 

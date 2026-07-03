@@ -1,8 +1,8 @@
 ---
-category: fonctionnalites
+category: gouvernance
 title: Agents
 excerpt: Les citoyens spécialistes qui exécutent tes décisions les plus importantes.
-position: 50
+position: 20
 published: true
 ---
 

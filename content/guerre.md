@@ -1,8 +1,8 @@
 ---
-category: fonctionnalites
+category: guerre-diplomatie
 title: Guerre
 excerpt: Attaquer, défendre, et comment se termine un conflit.
-position: 30
+position: 10
 published: true
 ---
 

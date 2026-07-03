@@ -1,8 +1,8 @@
 ---
-category: fonctionnalites
+category: progres-ressources
 title: Pollution & crédits carbone
 excerpt: L'envers du développement industriel, et comment le contenir.
-position: 140
+position: 40
 published: true
 ---
 

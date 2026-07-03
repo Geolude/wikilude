@@ -1,8 +1,8 @@
 ---
-category: fonctionnalites
+category: guerre-diplomatie
 title: Blasons
 excerpt: Les trois paires qui déterminent la force réelle de ton armée en guerre.
-position: 80
+position: 20
 published: true
 ---
 

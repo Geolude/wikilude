@@ -1,8 +1,8 @@
 ---
-category: fonctionnalites
+category: guerre-diplomatie
 title: Alliances
 excerpt: Se regrouper entre pays pour s'entraider, avec une trésorerie et une gouvernance communes.
-position: 60
+position: 40
 published: true
 ---
 

@@ -1,8 +1,8 @@
 ---
-category: fonctionnalites
+category: communaute
 title: Score & classement
 excerpt: Comment ton pays est classé face aux autres, et ce qui compte dans ton score.
-position: 160
+position: 10
 published: true
 ---
 

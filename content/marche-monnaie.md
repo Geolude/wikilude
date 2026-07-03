@@ -1,8 +1,8 @@
 ---
-category: fonctionnalites
+category: progres-ressources
 title: Marché & monnaie internationale
 excerpt: Échanger avec d'autres pays, et la monnaie qui sert aux échanges internationaux.
-position: 150
+position: 50
 published: true
 ---
 

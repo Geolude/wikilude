@@ -1,8 +1,8 @@
 ---
-category: fonctionnalites
+category: guerre-diplomatie
 title: Diplomatie & espionnage
 excerpt: "Accords, blocus et espionnage : les leviers de ton Diplomate en dehors du champ de bataille."
-position: 70
+position: 30
 published: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-category: fonctionnalites
+category: nation-societe
 title: Économie
 excerpt: Les trois secteurs qui financent ta nation, et ce qui limite leur rendement.
 position: 10

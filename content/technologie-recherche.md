@@ -1,8 +1,8 @@
 ---
-category: fonctionnalites
+category: progres-ressources
 title: Technologie & recherche
 excerpt: Comment ta recherche se transforme en niveaux techniques, secteur par secteur.
-position: 110
+position: 10
 published: true
 ---
 

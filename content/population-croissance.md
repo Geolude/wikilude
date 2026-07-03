@@ -1,8 +1,8 @@
 ---
-category: fonctionnalites
+category: nation-societe
 title: Population & croissance démographique
 excerpt: Comment ta population évolue d'un cycle à l'autre, et ce qui freine ou stimule sa croissance.
-position: 100
+position: 30
 published: true
 ---
 
