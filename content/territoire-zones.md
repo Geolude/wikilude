@@ -1,7 +1,7 @@
 ---
 category: fonctionnalites
 title: Territoire & zones
-excerpt: Ton espace de jeu : régions, types de terrain, et ce que tes zones habitables permettent.
+excerpt: "Ton espace de jeu : régions, types de terrain, et ce que tes zones habitables permettent."
 position: 90
 published: true
 ---

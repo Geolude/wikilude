@@ -1,7 +1,7 @@
 ---
 category: communaute
 title: Règlement
-excerpt: Les règles de conduite à accepter pour jouer : respect, vie privée, fair-play.
+excerpt: "Les règles de conduite à accepter pour jouer : respect, vie privée, fair-play."
 position: 0
 published: true
 ---
