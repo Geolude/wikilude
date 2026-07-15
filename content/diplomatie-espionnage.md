@@ -17,6 +17,9 @@ qu’une seule mission à la fois.
 - **Accord de recherche** : les deux pays produisent un bonus de
   technologie pendant plusieurs cycles, réparti à l’échéance sauf
   défection de l’un des deux camps.
+- **Pacte de non-agression** : interdit toute déclaration de guerre entre
+  les deux pays pendant sa durée. Il expire simplement à l’échéance ; le
+  rompre avant terme est possible à tout moment.
 
 Un accord se propose (occupe un Diplomate), puis se conclut ou se rejette.
 La défection avant l’échéance a un coût : elle marque ta réputation et

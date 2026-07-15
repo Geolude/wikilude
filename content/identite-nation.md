@@ -10,6 +10,8 @@ Au-delà de tes statistiques, ton pays a une identité : ce que les autres
 joueurs voient de toi. Tu peux la modifier à tout moment depuis l’écran
 **Nation**.
 
+![L’onglet Identité de l’écran Nation](assets/identite-nation/identite-nation--onglet-identite.png)
+
 ## Le pays
 
 - **Nom usuel** et **nom officiel** (forme longue).

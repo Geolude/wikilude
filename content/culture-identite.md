@@ -10,6 +10,8 @@ Au-delà des labels libres que tu poses sur l’écran **Identité de nation**,
 ton pays peut adhérer à une **idéologie** ou une **religion** plus
 structurée, fondée par toi ou par un autre joueur.
 
+![L’écran Culture & identité](assets/culture-identite/culture-identite--ecran.png)
+
 ## Fonder ou rejoindre
 
 Si ton pays est assez développé, tu peux **fonder** une idéologie ou une
