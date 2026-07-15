@@ -10,6 +10,8 @@ Ton pays est dirigé avec l’aide d’un **cabinet ministériel** de quatre
 sièges fixes : **Guerre**, **Économie**, **Étranger**, **Intérieur**.
 Chaque ministre a sa propre idéologie et sa propre humeur.
 
+![L’écran Gouvernement, avec le cabinet ministériel](assets/gouvernement/gouvernement--cabinet.png)
+
 ## Suivre ton cabinet
 
 Pour chaque ministre : sa **satisfaction** (une jauge qui va de sereine à

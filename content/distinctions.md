@@ -10,6 +10,8 @@ En plus de ton score, ton pays peut gagner des **distinctions** : des
 marqueurs de ce que tu as accompli (ou pas) pendant la partie. Elles sont
 visibles sur ta fiche pays publique, dans l’onglet **Distinctions**.
 
+![L’onglet Distinctions de la fiche pays publique](assets/distinctions/distinctions--fiche-publique.png)
+
 ## Médailles
 
 Les médailles récompensent un accomplissement précis : champion, podium,
@@ -32,6 +34,13 @@ deux racontent ton histoire, pas seulement les bonnes.
 
 Une nouvelle marque gagnée est signalée par une notification à ton retour
 sur ton tableau de bord.
+
+## Rivalités
+
+Deux pays qui se sont fait la guerre plusieurs fois deviennent des
+**rivaux historiques**, marqués comme tels sur leurs fiches respectives et
+dans l’historique de la partie. C’est purement narratif : ça ne modifie
+rien à tes statistiques, ça raconte juste un antagonisme qui dure.
 
 ## Voir aussi
 

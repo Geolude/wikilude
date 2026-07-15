@@ -11,6 +11,8 @@ merveille, tes marques, tes lois, ta région, ta technologie avancée, une
 éventuelle crise en cours. L’écran **Modificateurs actifs** les réunit
 toutes en un seul endroit, en lecture seule.
 
+![L’onglet Modificateurs actifs de l’écran Vue d’ensemble](assets/modificateurs-actifs/modificateurs-actifs--ecran.png)
+
 ## Les six sources
 
 - **Merveille** : le bonus de ton type de merveille, si elle est assez
