@@ -20,10 +20,14 @@ Le coût en technologie augmente avec le niveau déjà atteint.
 
 ## Financer la recherche
 
-Il faut allouer un budget à la recherche pour que ta production de
-technologie reste à son maximum. Sous-financer la recherche réduit ta
-production ; sur-financer légèrement peut l’augmenter, mais avec des
-rendements décroissants.
+La recherche est un poste de ton budget, au même titre que la santé,
+l'éducation et l'environnement : tu lui alloues une part de ton revenu
+net. Plus tu y consacres d'argent, plus ta production de technologie est
+élevée, sans palier ni rendement décroissant.
+
+La technologie déjà accumulée (points de recherche stockés, convertibles
+en points de technologie) et le niveau d'éducation de ta population
+augmentent aussi le rendement de chaque geo dépensé en recherche.
 
 ## Technologies avancées
 
