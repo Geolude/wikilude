@@ -36,6 +36,29 @@ courtes. Les valeurs de mécaniques peuvent varier d'une partie à l'autre :
 préfère décrire la mécanique plutôt que des chiffres figés quand c'est le
 cas, ou précède les chiffres d'un avertissement (`> Réglable par partie`).
 
+### Illustrer une formule
+
+Quand un article affiche le calcul exact d'un score/valeur (ex.
+`score-classement.md`), toujours la même forme, en fin d'article :
+
+```markdown
+## Formule
+
+Une phrase de contexte sur ce que compare la formule.
+
+\`\`\`
+Score = ...
+\`\`\`
+
+> Ces valeurs sont réglables par partie ; celles ci-dessus sont celles
+> par défaut.
+```
+
+Un bloc de code (` ``` `) est rendu par le DS (`ui`, `.ds-prose pre`)
+comme un encadré distinct, pas comme du code brut. N'illustre que ce qui
+s'affiche déjà au joueur (un écran cockpit, une valeur visible) — pas
+toutes les mécaniques internes.
+
 ## Où ce contenu est utilisé
 
 Le contenu de ce repo est synchronisé vers la base de données de
