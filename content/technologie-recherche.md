@@ -33,6 +33,24 @@ recherche d'un coup peut grever durablement tes finances plutôt que les
 faire progresser. Le niveau d'éducation de ta population augmente aussi le
 rendement de chaque geo dépensé en recherche.
 
+## Ce qui accélère ta recherche
+
+Une fois ton budget financé, plusieurs leviers multiplient encore ta
+production de technologie, cumulables entre eux :
+
+- une **Merveille scientifique** (+15 %, +30 % si Grande) ;
+- des **pactes de recherche** actifs avec d'autres nations (+1 % par pacte,
+  jusqu'à +10 %) ;
+- un **accord de R&D d'alliance** engagé par ton alliance (+8 %) ;
+- un **artéfact Archive** équipé (+30 %) ;
+- ton **identité nationale** (le Technocrate, par exemple) ;
+- ton **niveau d'éducation** (secondaire et supérieur, jusqu'à +70 % à
+  eux deux) ;
+- certaines **lois actives**, qui peuvent aussi bien booster (Programme de
+  R&D, +15 %) que pénaliser (École de spécialistes, −20 %) ta production.
+
+Le détail de ces facteurs est visible directement sur ton écran Recherche.
+
 ## Technologies avancées
 
 Une fois le niveau maximum atteint dans les trois secteurs, tu débloques
