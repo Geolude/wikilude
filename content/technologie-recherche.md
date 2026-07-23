@@ -22,12 +22,16 @@ Le coût en technologie augmente avec le niveau déjà atteint.
 
 La recherche est un poste de ton budget, au même titre que la santé,
 l'éducation et l'environnement : tu lui alloues une part de ton revenu
-net. Plus tu y consacres d'argent, plus ta production de technologie est
-élevée, sans palier ni rendement décroissant.
+net.
 
-La technologie déjà accumulée (points de recherche stockés, convertibles
-en points de technologie) et le niveau d'éducation de ta population
-augmentent aussi le rendement de chaque geo dépensé en recherche.
+Tes points de recherche stockés déterminent ton potentiel de production de
+technologie : plus tu en as, plus ta production peut être élevée. Mais les
+financer pleinement coûte de plus en plus cher à mesure que ce stock grandit
+et que ta technologie progresse déjà. Si ton budget ne suit pas, ta
+production est réduite d'autant : convertir trop de technologie en points de
+recherche d'un coup peut grever durablement tes finances plutôt que les
+faire progresser. Le niveau d'éducation de ta population augmente aussi le
+rendement de chaque geo dépensé en recherche.
 
 ## Technologies avancées
 
