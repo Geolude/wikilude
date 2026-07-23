@@ -33,13 +33,6 @@ accumulés par chaque camp. Le vainqueur ne perd jamais de territoire ; un
 pays ne peut jamais descendre sous un plancher minimal de son territoire
 de départ.
 
-## Blasons
-
-Tes blasons déterminent la force de ton armée, en trois paires
-complémentaires : **attaque/défense**, **élimination/survie**,
-**conquête/protection**. Ils viennent de ton bonheur, de tes lois, de ta
-merveille et du type de terrain de ton territoire.
-
 ## Fin de guerre
 
 Une guerre se termine par un **pacte de paix** (le territoire revient à son

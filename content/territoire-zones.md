@@ -15,8 +15,7 @@ grandir sans territoire supplémentaire.
 Ton territoire est divisé en régions. Chacune porte un type : **plaine**
 (habitable), **forêt**, **désert**, **océan**, ou **territoire conquis**
 en cours de guerre. Les forêts freinent la pollution et poussent
-naturellement ; les déserts progressent avec la pollution et fournissent
-des blasons défensifs fixes.
+naturellement ; les déserts progressent avec la pollution.
 
 ## Obtenir du territoire
 

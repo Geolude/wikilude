@@ -31,11 +31,9 @@ direct ou sur le marché.
 
 ## Désertification
 
-Une pollution durablement élevée peut transformer une plaine en désert :
-tu perds la capacité habitable de cette région, en échange d’un léger gain
-militaire passif (les déserts donnent des blasons défensifs fixes). C’est
-réversible tant que la bascule n’a pas eu lieu, en ramenant la pollution
-sous le seuil.
+Une pollution durablement élevée peut transformer une plaine en désert :
+tu perds la capacité habitable de cette région. C’est réversible tant que
+la bascule n’a pas eu lieu, en ramenant la pollution sous le seuil.
 
 > Les seuils de bascule, la vitesse de désertification et le rythme de
 > production des crédits carbone sont réglables par partie.

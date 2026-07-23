@@ -3,8 +3,12 @@ category: guerre-diplomatie
 title: Blasons
 excerpt: Les trois paires qui déterminent la force réelle de ton armée en guerre.
 position: 20
-published: true
+published: false
 ---
+
+<!-- Dépubliée : le système de blasons n'existe pas dans le moteur (game#431,
+     différé). Le contenu ci-dessous décrit le design cible, pas l'état livré.
+     Republier une fois game#431 implémenté et le contenu vérifié à jour. -->
 
 Les blasons représentent les capacités de tes troupes au combat : leur
 force, leur robustesse, leur aptitude à conquérir ou protéger du
