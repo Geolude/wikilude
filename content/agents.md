@@ -18,12 +18,13 @@ monnaie : tu les dépenses pour recruter le mix de rôles que tu veux.
 Recruter plusieurs Agents du même rôle est possible, mais coûte de plus en
 plus cher à chaque nouveau recrutement du même type.
 
-## Les quatre rôles
+## Les cinq rôles
 
 - **Urbaniste** : réaffecte tes zones habitables entre les secteurs.
 - **Ingénieur** : terraformage et activation des crédits carbone.
 - **Diplomate** : diplomatie, accords, blocus, espionnage.
-- **Général** : guerre et ajustement des blasons de ton armée.
+- **Général** : requis pour ouvrir un front de guerre (attaque ou défense).
+- **Trader** : requis pour convertir ton trésor en geos.
 
 ## Reconversion
 

@@ -1,15 +1,14 @@
 ---
 category: nation-societe
 title: Bonheur
-excerpt: L'indicateur qui conditionne ta croissance, tes blasons et tes grèves.
+excerpt: L'indicateur qui conditionne ta croissance et tes grèves.
 position: 20
 published: true
 ---
 
 Le bonheur mesure la satisfaction de tes citoyens. C’est l’un des
 indicateurs les plus influents du jeu : il agit sur ta **croissance
-démographique**, sur le nombre de **blasons** dont bénéficie ton armée, et
-déclenche des **grèves** s’il s’effondre.
+démographique** et déclenche des **grèves** s’il s’effondre.
 
 ## Ce qui fait varier le bonheur
 
@@ -28,12 +27,5 @@ travailler : ce sont les **grévistes**. Tant qu’ils sont présents, ils te
 manquent dans l’économie, la construction de ta merveille et l’armée.
 Remonter le bonheur est le seul moyen de les faire rentrer.
 
-## Paliers de blasons
-
-Le bonheur débloque des **paliers de blasons** à mesure qu’il augmente :
-plus ta population est heureuse, plus ton armée gagne en force. C’est un
-levier de plus pour ne jamais négliger cet indicateur, même hors période
-de guerre.
-
-> Le seuil de grève exact et les paliers de blasons sont réglables par
-> partie ; consulte l’interface de ta partie en cours.
+> Le seuil de grève exact est réglable par partie ; consulte l’interface
+> de ta partie en cours.
