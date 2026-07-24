@@ -30,4 +30,4 @@ Si tu changes ton nom d'utilisateur sur Geolude, ton pseudo Discord est
 actualisé à son tour.
 
 > À ce jour, la liaison ne fait que ce renommage de pseudo. D'autres
-> usages (rôles, notifications) sont à l'étude mais pas encore actifs.
+> usages (rôles) sont à l'étude mais pas encore actifs.
