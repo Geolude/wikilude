@@ -1,0 +1,32 @@
+name: Suggestion de nouvel article
+description: Proposer un sujet non couvert par le Wikilude.
+labels: [content, enhancement]
+body:
+  - type: input
+    id: sujet
+    attributes:
+      label: Sujet
+    validations:
+      required: true
+  - type: dropdown
+    id: rubrique
+    attributes:
+      label: Rubrique
+      options:
+        - demarrer
+        - cycles
+        - nation-societe
+        - guerre-diplomatie
+        - progres-ressources
+        - gouvernance
+        - communaute
+        - ne sais pas
+    validations:
+      required: true
+  - type: textarea
+    id: pourquoi
+    attributes:
+      label: Pourquoi cet article manque
+      description: Quelle question de joueur reste sans réponse aujourd'hui ?
+    validations:
+      required: true

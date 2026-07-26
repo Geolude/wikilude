@@ -11,26 +11,26 @@ que signifient les symboles et abréviations que tu vas croiser.
 
 ## Les deux monnaies
 
-Ton pays manipule deux réserves distinctes, jamais interchangeables :
+Ton pays manipule deux réserves distinctes, jamais interchangeables :
 
-- **¤** : ton **trésor national**. C'est ta monnaie propre, celle de toutes
+- **¤** : ton **trésor national**. C’est ta monnaie propre, celle de toutes
   tes dépenses courantes (recrutement, entretien, terraformage…). Tu peux
-  lui donner un nom (dans les réglages de ton pays) ; à défaut, elle
-  s'affiche simplement en ¤.
-- **₲** : les **geos**, la monnaie internationale. Elle sert aux échanges
-  entre pays, au marché commun et aux trésoreries d'alliance. Voir la
-  rubrique *Marché & monnaie internationale* pour convertir l'une vers
-  l'autre.
+  lui donner un nom (dans les réglages de ton pays) ; à défaut, elle
+  s’affiche simplement en ¤.
+- **₲** : les **geos**, la monnaie internationale. Elle sert aux échanges
+  entre pays, au marché commun et aux trésoreries d’alliance. Voir la
+  rubrique *Marché & monnaie internationale* pour convertir l’une vers
+  l’autre.
 
 Les deux ne se valent pas et ne se convertissent pas librement, ne les
-confonds pas parce qu'elles se ressemblent à l'écran : geos apparaît
-volontairement en rose partout où il s'affiche, pour que tu le repères
-d'un coup d'œil face à ton trésor national.
+confonds pas parce qu’elles se ressemblent à l’écran : geos apparaît
+volontairement en rose partout où il s’affiche, pour que tu le repères
+d’un coup d’œil face à ton trésor national.
 
 ## Les grands nombres
 
-Passé un certain seuil, les valeurs (population, trésor…) s'abrègent pour
-rester lisibles :
+Passé un certain seuil, les valeurs (population, trésor…) s’abrègent pour
+rester lisibles :
 
 | Abréviation | Ordre de grandeur |
 |---|---|
@@ -40,7 +40,7 @@ rester lisibles :
 | Bn | billion |
 | Bnrd | billiard |
 
-Exemple : `5,92 M` = 5 920 000.
+Exemple : `5,92 M` = 5 920 000.
 
 ## Autres abréviations courantes
 
@@ -53,6 +53,6 @@ Exemple : `5,92 M` = 5 920 000.
 | km² | kilomètres carrés (territoire) |
 | CC | crédits carbone |
 
-> Les symboles de monnaie et les seuils d'abréviation sont fixes, communs
+> Les symboles de monnaie et les seuils d’abréviation sont fixes, communs
 > à toutes les parties. Les autres valeurs (coûts, seuils de jeu) peuvent
-> varier d'une partie à l'autre.
+> varier d’une partie à l’autre.

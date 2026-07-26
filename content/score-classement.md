@@ -7,26 +7,26 @@ published: true
 ---
 
 Les pays sont classés selon un **score**, qui agrège plusieurs aspects de
-ta nation : population, niveau technologique, trésorerie, territoire,
+ta nation : population, niveau technologique, trésorerie, territoire,
 guerres gagnées et perdues, bonheur, et taille de ta merveille. Être en
 alliance apporte un léger bonus supplémentaire.
 
 ## Ce que tu vois
 
-Ton score s'affiche sous une forme compacte (une valeur combinée à un
-multiplicateur), avec le détail par critère consultable dans l'écran
+Ton score s’affiche sous une forme compacte (une valeur combinée à un
+multiplicateur), avec le détail par critère consultable dans l’écran
 Classement de ton pays.
 
 ## Classement
 
-Le classement se recalcule à chaque cycle. À la fin d'une partie, un
+Le classement se recalcule à chaque cycle. À la fin d’une partie, un
 palmarès conserve les meilleurs pays et alliances, ainsi que les
 statistiques marquantes de la partie.
 
 ## Formule
 
 Chaque critère est ramené sur 100 en te comparant au pays qui fait le
-mieux sur ce critère dans ta partie, puis pondéré :
+mieux sur ce critère dans ta partie, puis pondéré :
 
 ```
 Score = 100 × ( 0,30 × (ta population / population max du jeu)
@@ -41,8 +41,8 @@ Score = 100 × ( 0,30 × (ta population / population max du jeu)
         × 1,10 si membre d'une alliance
 ```
 
-Le score d'une alliance est la somme des scores de ses pays membres actifs
+Le score d’une alliance est la somme des scores de ses pays membres actifs
 (les pays gelés pour inactivité prolongée ne comptent pas).
 
-> Ces pondérations sont réglables par partie ; les valeurs ci-dessus sont
+> Ces pondérations sont réglables par partie ; les valeurs ci-dessus sont
 > celles par défaut.

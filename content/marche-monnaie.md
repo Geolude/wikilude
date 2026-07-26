@@ -14,7 +14,7 @@ directement avec d’autres pays, ou via un marché commun.
 Ta trésorerie nationale est libellée dans ta propre monnaie. Les échanges
 entre pays et les trésoreries d’alliance utilisent une **monnaie
 internationale** distincte, les **geos**. Convertir ta trésorerie en geos
-demande un conseiller **Trader** disponible ; la conversion inverse (geos
+demande un conseiller **Trader** disponible ; la conversion inverse (geos
 vers trésorerie) demande des **commodités**, produites par ton secteur
 commercial.
 

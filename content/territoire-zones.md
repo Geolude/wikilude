@@ -33,7 +33,7 @@ usage.
 ## Capitale
 
 Une de tes régions est désignée **capitale**. Tant qu’elle est tenue,
-elle t’apporte un bonus de bonheur ; assiégée par une guerre en cours,
+elle t’apporte un bonus de bonheur ; assiégée par une guerre en cours,
 elle t’inflige un malus à la place. Si elle est **capturée** (occupation
 prolongée, au-delà du simple siège), la région change de camp comme les
 autres, ta merveille encaisse des dégâts, et tu subis un malus de bonheur
