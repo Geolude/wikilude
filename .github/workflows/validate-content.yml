@@ -1,0 +1,31 @@
+name: validate-content
+
+# Filet QA pour les contributions externes (repo public, forks bienvenus).
+# `pull_request` classique (pas `pull_request_target`) : token restreint,
+# aucun secret exposé aux PR de forks. `ubuntu-latest`, jamais self-hosted,
+# ce dernier ne doit pas exécuter du code arbitraire venant d'un fork.
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'content/**'
+      - 'README.md'
+      - 'scripts/**'
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Frontmatter des articles (schéma + category + position unique)
+        run: node scripts/validate-frontmatter.mjs
+
+      - name: Typographie française
+        run: node scripts/check-fr-typography.mjs content README.md CONTRIBUTING.md

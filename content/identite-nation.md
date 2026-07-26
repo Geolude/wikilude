@@ -6,7 +6,7 @@ position: 50
 published: true
 ---
 
-Au-delà de tes statistiques, ton pays a une identité : ce que les autres
+Au-delà de tes statistiques, ton pays a une identité : ce que les autres
 joueurs voient de toi. Tu peux la modifier à tout moment depuis l’écran
 **Nation**.
 
@@ -25,12 +25,12 @@ joueurs voient de toi. Tu peux la modifier à tout moment depuis l’écran
 
 Trois labels libres que tu peux **rallier** (rejoindre un label déjà
 fondé par un autre pays de la partie) ou **fonder** (inventer le tien, nom
-+ courte description) : ta doctrine de gouvernance, ton idéologie, et le
++ courte description) : ta doctrine de gouvernance, ton idéologie, et le
 trait de caractère de ton dirigeant. Chacun a son propre délai avant de
 pouvoir en changer à nouveau.
 
-Ces trois choix sont purement déclaratifs ici : ils n’ont pas d’effet de
-jeu direct sur cet écran. Leur poids réel se joue ailleurs : le régime se
+Ces trois choix sont purement déclaratifs ici : ils n’ont pas d’effet de
+jeu direct sur cet écran. Leur poids réel se joue ailleurs : le régime se
 change sur l’écran **Gouvernement**, et l’effet sur ton bonheur se lit sur
 l’écran **Culture & identité**.
 
@@ -38,7 +38,7 @@ l’écran **Culture & identité**.
 
 Titre, prénom, nom, genre, âge et avatar de ton dirigeant sont
 modifiables librement. Son **origine**, en revanche, est un choix fixé à
-la création de ton pays : elle reste affichée en lecture seule.
+la création de ton pays : elle reste affichée en lecture seule.
 
 > Les délais de renommage (doctrine, idéologie, trait dirigeant) sont
 > réglables par partie.

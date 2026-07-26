@@ -28,7 +28,7 @@ s’appliquent au prochain cycle.
 ## Objectifs et récompenses
 
 Les **objectifs** progressifs (rejoindre une alliance, atteindre une
-population donnée, gagner ta première guerre…) fonctionnent comme le reste :
+population donnée, gagner ta première guerre…) fonctionnent comme le reste :
 même si la condition est déjà remplie, l’objectif n’est officiellement
 **validé** qu’à la prochaine résolution de cycle. Si tu viens par exemple de
 rejoindre une alliance, la barre de progression affiche déjà 100 % mais le

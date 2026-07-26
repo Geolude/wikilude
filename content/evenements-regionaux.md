@@ -24,7 +24,7 @@ circonscrite, ou une sécheresse régionale.
 ## Ce que ça change
 
 Un événement régional peut faire varier ton **bonheur**, ta **santé** ou
-ta **trésorerie** — à l’échelle du pays, mais avec un impact local et
+ta **trésorerie**, à l’échelle du pays, mais avec un impact local et
 modeste. Certains événements agissent aussi directement sur la région
 touchée : ils peuvent faire grimper sa **pollution**, ou pousser une
 plaine vers la **désertification**.
@@ -36,7 +36,7 @@ s’installe, pas de palier qui s’aggrave d’un cycle à l’autre.
 
 Le jeu évite de t’infliger une série d’événements défavorables sans
 respiration : au-delà d’un certain nombre de coups durs consécutifs, le
-suivant est absorbé — rien ne se passe ce cycle-là.
+suivant est absorbé, rien ne se passe ce cycle-là.
 
 > La fréquence, le catalogue d’événements possibles et leurs magnitudes
 > exactes sont réglables par partie.
@@ -44,5 +44,5 @@ suivant est absorbé — rien ne se passe ce cycle-là.
 ## Voir aussi
 
 La pollution et la désertification régionales sont détaillées sur la page
-**Pollution & crédits carbone** ; le découpage de ton territoire en
+**Pollution & crédits carbone** ; le découpage de ton territoire en
 régions est présenté sur **Territoire & zones**.
