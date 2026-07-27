@@ -43,4 +43,4 @@ modificateurs permanents liés à l’ancien.
 
 Doctrine, idéologie et trait dirigeant se *posent* sur l’écran
 **Identité de nation** ; leur effet chiffré sur ton bonheur se lit sur
-l’écran **Culture & identité**. Ce que tu vois ici n’est qu’un résumé.
+l’écran **Doctrine**. Ce que tu vois ici n’est qu’un résumé.

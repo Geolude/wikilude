@@ -32,7 +32,7 @@ pouvoir en changer à nouveau.
 Ces trois choix sont purement déclaratifs ici : ils n’ont pas d’effet de
 jeu direct sur cet écran. Leur poids réel se joue ailleurs : le régime se
 change sur l’écran **Gouvernement**, et l’effet sur ton bonheur se lit sur
-l’écran **Culture & identité**.
+l’écran **Doctrine**.
 
 ## Le dirigeant
 

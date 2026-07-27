@@ -1,6 +1,6 @@
 ---
 category: gouvernance
-title: Culture & identité
+title: Doctrine
 excerpt: Idéologies et religions fondées par les joueurs, et l'effet chiffré de ton identité sur ton bonheur.
 position: 40
 published: true
@@ -10,7 +10,7 @@ Au-delà des labels libres que tu poses sur l’écran **Identité de nation**,
 ton pays peut adhérer à une **idéologie** ou une **religion** plus
 structurée, fondée par toi ou par un autre joueur.
 
-![L’écran Culture & identité](assets/culture-identite/culture-identite--ecran.png)
+![L’écran Doctrine](assets/doctrine/doctrine--ecran.png)
 
 ## Fonder ou rejoindre
 
