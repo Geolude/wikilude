@@ -28,7 +28,7 @@ deux côtés.
 ## Territoire disputé
 
 Pendant la guerre, du territoire change de main sans être définitivement
-acquis — sauf exception : si un camp occupe sans interruption une région
+acquis, sauf exception : si un camp occupe sans interruption une région
 ciblée pendant assez de cycles d’affilée, elle est **capturée pour de
 bon**, immédiatement, sans attendre la fin du conflit. Une bataille à
 force strictement égale ne fait gagner ni perdre aucune occupation. En
