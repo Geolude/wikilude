@@ -14,9 +14,11 @@ adversaire.
 
 Chaque pays a un **statut** : Nouveau, Inexpérimenté ou Expérimenté. Un
 pays ne peut attaquer que des pays de statut proche du sien, et seulement
-si leur territoire fait au moins 90 % du sien. Tu ne peux pas non plus
-infliger plus de trois guerres offensives à la fois, et chaque pays a un
-**plafond de guerres défensives** qu’il peut subir simultanément.
+si leur territoire fait au moins 90 % du sien. Il n’y a pas de plafond au
+nombre de guerres offensives que tu peux mener en même temps, mais chaque
+pays a un **plafond de guerres défensives** qu’il peut subir simultanément
+(plus large pour un pays expérimenté et vaste, ou déjà engagé dans ses
+propres offensives).
 
 ## Déroulement
 
