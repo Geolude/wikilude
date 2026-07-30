@@ -15,15 +15,16 @@ Ta trésorerie nationale est libellée dans ta propre monnaie. Les échanges
 entre pays et les trésoreries d’alliance utilisent une **monnaie
 internationale** distincte, les **geos**. Convertir ta trésorerie en geos
 demande un conseiller **Trader** disponible ; la conversion inverse (geos
-vers trésorerie) demande des **commodités**, produites par ton secteur
-commercial.
+vers trésorerie) est une simple conversion de taux, sans coût en ressources.
 
 ## Échanges 1 pour 1 (troc)
 
 Tu peux proposer un échange direct à un autre pays : un panier de
-ressources contre un autre (trésorerie, technologie, territoire, crédits
-carbone…), avec des garde-fous pour éviter les échanges déséquilibrés ou
-abusifs (comme vider un pays de tout son territoire).
+ressources contre un autre (geos, technologie, territoire, nourriture,
+équipement militaire, crédits carbone…), avec des garde-fous pour éviter
+les échanges déséquilibrés ou abusifs (comme vider un pays de tout son
+territoire). Ta trésorerie nationale, elle, reste strictement domestique
+et ne circule pas entre pays.
 
 ## Marché dynamique
 
