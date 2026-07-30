@@ -44,8 +44,8 @@ Score = 100 × ( 0,30 × (ta population / un repère de population)
 
 Comme ce repère ne bouge pas avec les autres joueurs, ton score grandit
 au fil de la partie plutôt que de plafonner dès que tout le monde
-progresse au même rythme : c'est ce qui fait avancer le cristal au fil
-des cycles, jusqu'aux paliers les plus rares en fin de partie.
+progresse au même rythme : c’est ce qui fait avancer le cristal au fil
+des cycles, jusqu’aux paliers les plus rares en fin de partie.
 
 Le score d’une alliance est la somme des scores de ses pays membres actifs
 (les pays gelés pour inactivité prolongée ne comptent pas).
