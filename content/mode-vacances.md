@@ -33,7 +33,13 @@ vraiment ton absence.
 
 ## Ce que ce n’est pas
 
-Le mode vacances est une action volontaire, que tu déclenches toi-même. Il
-n’y a pas de détection automatique d’inactivité qui gèlerait ton pays à
-ta place : un pays laissé sans mode vacances continue de tourner, pour le
-meilleur ou pour le pire.
+Le mode vacances est une action volontaire, que tu déclenches toi-même, ce
+qui ne se confond pas avec le **gel pour inactivité**. Si tu laisses ton
+pays tourner sans activité pendant un certain nombre de cycles (~7 jours),
+il finit par être gelé automatiquement, avec un avertissement avant
+l’échéance. La différence compte : un pays en vacances reste classé
+parmi les actifs à son vrai rang et son score continue de peser dans le
+total de ton alliance, alors qu’un pays gelé pour inactivité est relégué
+dans une section « inactifs » à part, hors classement, et ne compte plus
+pour l’alliance tant qu’il reste inactif. Activer le mode vacances avant
+de partir te met donc à l’abri de ce gel-là aussi.
