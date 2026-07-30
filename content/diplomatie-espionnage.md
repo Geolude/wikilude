@@ -12,14 +12,18 @@ qu’une seule mission à la fois.
 
 ## Accords
 
-- **Accord de matériaux** : deux pays partagent automatiquement les
-  matériaux produits par chacun, jusqu’à la fin de l’accord.
-- **Accord de recherche** : les deux pays produisent un bonus de
+- **Pacte de recherche** : les deux pays produisent un bonus de
   technologie pendant plusieurs cycles, réparti à l’échéance sauf
   défection de l’un des deux camps.
 - **Pacte de non-agression** : interdit toute déclaration de guerre entre
   les deux pays pendant sa durée. Il expire simplement à l’échéance ; le
   rompre avant terme est possible à tout moment.
+
+En plus de ces pactes, le **Troc** propose un mode récurrent (l’ex-« accord
+de matériaux ») : chaque camp choisit une ressource commune (geos, PTech,
+territoire, nourriture, matériel militaire ou carbone) et fixe la quantité
+envoyée à l’autre chaque cycle, jusqu’à annulation ou résiliation pour
+insolvabilité (2 cycles consécutifs sans pouvoir honorer l’engagement).
 
 Un accord se propose (occupe un Diplomate), puis se conclut, se rejette ou
 est annulé par l’émetteur tant que la cible n’a pas répondu. Une
@@ -31,18 +35,10 @@ réduit ta part de ce qui a été accumulé.
 
 ## Blocus économique
 
-Un pays peut déclarer un blocus contre un autre pour freiner ses échanges.
-Le pays visé peut lutter contre ce blocus avec ses propres Diplomates.
+Un pays peut déclarer un blocus contre un autre pour freiner ses échanges
+(le troc entre les deux pays est gelé, et le marché commun exclut leurs
+ordres croisés). Seul l’émetteur peut lever son propre blocus ; déclarer un
+blocus casse aussitôt tout pacte actif entre les deux pays.
 
-## Espionnage
-
-À un niveau technologique suffisant, tu peux mener des opérations
-d’espionnage : ralentir la merveille adverse, sa croissance, sa recherche,
-son bonheur ou sa productivité industrielle, pour un temps limité. Ton
-**contre-espionnage** (financé en technologie) détermine à la fois ta
-capacité à réussir tes propres opérations et ta résistance à celles des
-autres.
-
-> Le nombre d’usages par Diplomate, la durée des accords, le délai
-> d’expiration d’une proposition sans réponse et les seuils d’espionnage
-> sont réglables par partie.
+> Le nombre d’usages par Diplomate, la durée des accords et le délai
+> d’expiration d’une proposition sans réponse sont réglables par partie.
