@@ -20,11 +20,12 @@ plus modestement.
 
 ## Crédits carbone
 
-Chaque pays reçoit régulièrement des crédits carbone, jusqu’à un stock
-maximum. Activer un crédit réduit ta pollution pendant plusieurs cycles,
-de façon dégressive : chaque crédit actif compte, mais avec des
-rendements décroissants. Un Ingénieur disponible peut aussi en activer
-automatiquement.
+Chaque pays reçoit régulièrement des crédits carbone, sans stock maximum : au-delà
+d’un certain volume, un entretien proportionnel à ton revenu brut vient grever ton
+trésor, et s’il n’est pas payé le stock s’érode. Activer un crédit réduit ta
+pollution pendant plusieurs cycles, de façon dégressive : chaque crédit actif
+compte, mais avec des rendements décroissants. Un Ingénieur disponible peut
+aussi en activer automatiquement.
 
 Les crédits carbone peuvent aussi s’échanger avec d’autres pays, en troc
 direct ou sur le marché.
