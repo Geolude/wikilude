@@ -27,6 +27,10 @@ toutes en un seul endroit, en lecture seule.
 Seules les sources qui ont un effet réel apparaissent : un facteur neutre
 ne s’affiche pas, pour ne pas noyer ce qui compte vraiment.
 
+Un [artéfact](/wiki/artefacts) actif n’est pas repris ici : c’est un effet
+temporaire à part, à retrouver sur sa propre fiche plutôt que sur cet
+écran de synthèse.
+
 ## Pourquoi cet écran existe
 
 Chaque effet est déjà visible ailleurs, décomposé dans l’écran qui le
