@@ -20,8 +20,10 @@ Tous les pays démarrent avec la même base :
 - Un **trésor** proportionnel à cette population.
 - Un **taux d’imposition** modéré.
 - Le **bonheur**, la **santé** et la **stabilité** à un niveau neutre.
-- Des **budgets** (santé, éducation, environnement, armée) déjà répartis ;
-  le reste de ton revenu part en épargne.
+- Des **budgets** (santé, éducation, environnement) déjà répartis ;
+  le reste de ton revenu part en épargne. L’armée n’est pas un budget : elle
+  se recrute et s’entretient explicitement (voir l’écran Population), et un
+  pays neuf ne démarre avec aucun soldat ni matériel.
 - Ta population est déjà affectée entre l'**économie**, les **citoyens
   inactifs** et le reste.
 - **Aucune technologie** acquise, et aucun effort de recherche engagé : le
