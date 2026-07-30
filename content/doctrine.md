@@ -15,9 +15,16 @@ structurée, fondée par toi ou par un autre joueur.
 ## Fonder ou rejoindre
 
 Si ton pays est assez développé, tu peux **fonder** une idéologie ou une
-religion originale, ou **rejoindre** celle d’un autre pays déjà fondée
-dans la partie. Renommer une idéologie/religion que tu as fondée est
-possible, mais encadré par un délai.
+religion originale : son bonus et son malus, tirés d’un catalogue fermé,
+ne profitent qu’à toi, le fondateur. Renommer le libellé de ton idéologie
+ou de ta religion est possible (que tu en aies fondé une ou non), mais
+encadré par un délai.
+
+Tu ne « rejoins » pas un pays de ta propre initiative : c’est lui qui
+doit te **proposer un accord culturel** pour te faire adopter son
+idéologie ou sa religion d’origine (l’archétype de base, pas la version
+personnalisée qu’il a éventuellement fondée, dont l’effet reste réservé à
+son fondateur) ; tu n’as plus qu’à l’accepter ou la refuser.
 
 ## Ce que ton identité te rapporte
 
