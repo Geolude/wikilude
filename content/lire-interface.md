@@ -37,8 +37,11 @@ rester lisibles :
 | K | mille |
 | M | million |
 | Md | milliard |
-| Bn | billion |
-| Bnrd | billiard |
+
+Au-delà du milliard, il n’existe pas d’abréviation courte : le nombre est
+suivi du mot entier (« 3,4 billion », « 2 billiard »…), sur l’échelle
+longue française (un ordre de grandeur que tu ne croiseras de toute façon
+jamais en jeu).
 
 Exemple : `5,92 M` = 5 920 000.
 
