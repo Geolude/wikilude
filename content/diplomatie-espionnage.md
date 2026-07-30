@@ -21,7 +21,11 @@ qu’une seule mission à la fois.
   les deux pays pendant sa durée. Il expire simplement à l’échéance ; le
   rompre avant terme est possible à tout moment.
 
-Un accord se propose (occupe un Diplomate), puis se conclut ou se rejette.
+Un accord se propose (occupe un Diplomate), puis se conclut, se rejette ou
+est annulé par l’émetteur tant que la cible n’a pas répondu. Une
+proposition restée sans réponse expire automatiquement après un nombre de
+cycles réglable (4 par défaut).
+
 La défection avant l’échéance a un coût : elle marque ta réputation et
 réduit ta part de ce qui a été accumulé.
 
@@ -39,5 +43,6 @@ son bonheur ou sa productivité industrielle, pour un temps limité. Ton
 capacité à réussir tes propres opérations et ta résistance à celles des
 autres.
 
-> Le nombre d’usages par Diplomate, la durée des accords et les seuils
-> d’espionnage sont réglables par partie.
+> Le nombre d’usages par Diplomate, la durée des accords, le délai
+> d’expiration d’une proposition sans réponse et les seuils d’espionnage
+> sont réglables par partie.
