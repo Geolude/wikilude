@@ -41,7 +41,7 @@ production de technologie, cumulables entre eux :
 - une **Merveille scientifique** (+15 %, +30 % si Grande) ;
 - des **pactes de recherche** actifs avec d’autres nations (+1 % par pacte,
   jusqu’à +10 %) ;
-- un **accord de R&D d’alliance** engagé par ton alliance (+8 %) ;
+- un **accord de R&D d’alliance** engagé par ton alliance (+10 %) ;
 - un **artéfact Archive** équipé (+30 %) ;
 - ton **identité nationale** (le Technocrate, par exemple) ;
 - ton **niveau d’éducation** (secondaire et supérieur, jusqu’à +70 % à
