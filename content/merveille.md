@@ -7,7 +7,8 @@ published: true
 ---
 
 La merveille est un monument que ton pays peut construire pour symboliser
-sa puissance. Il te faut une population minimale avant de commencer.
+sa puissance. Le chantier démarre dès la fondation de ta nation ; à toi
+d’y affecter de la population pour le faire grandir.
 
 ## Choisir un type
 
@@ -18,8 +19,9 @@ compte parmi les plus hautes de son type. Chaque type a aussi une
 **contrepartie** : une merveille t’engage, elle ne fait pas qu’ajouter un
 bonus gratuit.
 
-Tu peux changer de type à tout moment, mais tu perds une bonne partie du
-travail déjà accumulé.
+Tu peux changer de type (sauf juste après un précédent changement, le
+temps que le gel se lève), mais tu perds une bonne partie du travail déjà
+accumulé.
 
 ## Construire
 
