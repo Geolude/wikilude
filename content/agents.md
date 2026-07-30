@@ -29,8 +29,10 @@ plus cher à chaque nouveau recrutement du même type.
 ## Reconversion
 
 Changer le rôle d’un Agent est possible à tout moment, mais le rend
-indisponible pendant **2 cycles**. Un Agent une fois recruté reste acquis
-pour toujours.
+indisponible pendant **2 cycles**. Tu peux aussi renvoyer un Agent
+disponible (action rare, à utiliser avec parcimonie) : il libère alors
+son slot. Seul un Agent déjà engagé en mission ou en reconversion
+(cooldown) ne peut pas être renvoyé.
 
 > Le coût de recrutement exact et le nombre d’actions par Agent et par
 > cycle sont réglables par partie.
