@@ -13,24 +13,26 @@ contrepartie négative.
 
 ## Décréter et abroger
 
-Décréter une loi prend plusieurs cycles avant que son effet ne s’active.
-L’abroger prend également plusieurs cycles, pendant lesquels l’effet reste
-actif. Il n’y a pas d’autre coût que ce délai : c’est lui qui régule tes
-changements de politique, réfléchis avant de décréter.
+Décréter une loi active son effet immédiatement, dès le cycle courant.
+L’abroger le désactive tout aussi immédiatement, sans délai. Le seul
+régulateur est un **cooldown propre à chaque loi** : une fois abrogée, tu
+ne peux pas la redécréter avant qu’il ne soit écoulé. C’est lui qui
+t’empêche de flip-flopper une politique au cycle près, réfléchis avant de
+décréter.
 
 ## Quelques exemples
 
 - **Société** : *Planification familiale* (bonheur en hausse, mais
   croissance démographique réduite), *Interdiction des grèves* (moins de
-  grévistes, mais bonheur en baisse).
+  grévistes, mais bonheur en baisse), *École nationale de spécialistes*
+  (accumulation de points d’agents plus rapide, production technologique
+  réduite).
 - **Économie** : *Réduction des congés* (revenu industriel et commercial en
-  hausse, bonheur en baisse), *Complexe militaro-industriel* (productivité
-  industrielle militaire très forte, mais revenu industriel civil
-  sacrifié).
-- **Autres** : *École nationale de spécialistes* (accumulation de points
-  d’agents plus rapide, production technologique réduite),
-  *Isolationnisme* (bien mieux protégé des blocus, mais coupé du commerce
-  extérieur).
+  hausse, bonheur en baisse), *Plan industriel* (productivité industrielle
+  en forte hausse, bonheur légèrement sacrifié).
+- **Autres** : *Éducation civique renforcée* (bonheur en hausse
+  progressive, mais budget Éducation minimum imposé), *Fermeture des
+  frontières* (coupe le commerce extérieur).
 
 > Le catalogue de lois disponibles et leurs valeurs précises sont
 > réglables par partie ; certaines lois peuvent être désactivées selon la
