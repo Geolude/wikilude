@@ -28,9 +28,11 @@ verrouillent.
 
 Les marques sont des traits durables gravés automatiquement au fil des
 cycles selon ton comportement : guerrier redoutable, pacifiste,
-agresseur, traître, autoritaire, réformateur, ou avoir mené ta merveille
-à son terme. Certaines sont valorisantes, d’autres sont un stigmate, les
-deux racontent ton histoire, pas seulement les bonnes.
+agresseur, traître, autoritaire, réformateur, avoir mené ta merveille
+à son terme, avoir atteint tous tes objectifs de fondation, ou avoir
+honoré (ou pas) un pacte d’échange récurrent. Certaines sont
+valorisantes, d’autres sont un stigmate, les deux racontent ton
+histoire, pas seulement les bonnes.
 
 Une nouvelle marque gagnée est signalée par une notification à ton retour
 sur ton tableau de bord.
