@@ -17,15 +17,16 @@ démographique** et déclenche des **grèves** s’il s’effondre.
 - La **guerre** : engager des soldats coûte du bonheur (plus cher en
   offensive qu’en défensive), et chaque perte au combat aggrave le malus.
 - Un **déficit budgétaire** persistant.
-- À l’inverse, la **santé**, l'**éducation**, certaines **lois**, le type de
-  ta **merveille** et tes **artéfacts** peuvent le soutenir.
+- À l’inverse, une **santé** au-dessus de la moyenne, certaines **lois** et
+  le type de ta **merveille** peuvent le soutenir.
 
 ## Grévistes
 
-Sous un certain seuil de bonheur, une partie de ta population cesse de
+Sous un certain seuil de bonheur, une partie de la main-d’œuvre de tes
+**secteurs économiques** (agriculture, industrie, commerce) cesse de
 travailler : ce sont les **grévistes**. Tant qu’ils sont présents, ils te
-manquent dans l’économie, la construction de ta merveille et l’armée.
-Remonter le bonheur est le seul moyen de les faire rentrer.
+manquent dans l’économie (le chantier de ta merveille et ton armée ne sont
+pas concernés). Remonter le bonheur est le seul moyen de les faire rentrer.
 
 > Le seuil de grève exact est réglable par partie ; consulte l’interface
 > de ta partie en cours.
