@@ -23,8 +23,9 @@ toujours à l’interface de ta partie en cours.
   événements aléatoires.
 - **Coûts** : fondation d’alliance, opérations de terraformage, prix de
   base du marché.
-- **Catalogue de lois actives** : certaines lois peuvent être désactivées
-  selon la partie.
+- **Catalogue de lois** : le cooldown (délai avant ré-promulgation/abrogation)
+  et l’ampleur des effets de chaque loi peuvent être réglés selon la partie.
+  La liste des lois disponibles, elle, est la même pour toutes les parties.
 - **Seuils de statut de guerre** : les paliers de promotion (Nouveau →
   Inexpérimenté → Expérimenté) peuvent être ajustés.
 
