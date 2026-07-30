@@ -28,10 +28,14 @@ deux côtés.
 ## Territoire disputé
 
 Pendant la guerre, du territoire change de main sans être définitivement
-acquis. À la fin du conflit, il est réparti selon les points de victoire
-accumulés par chaque camp. Le vainqueur ne perd jamais de territoire ; un
-pays ne peut jamais descendre sous un plancher minimal de son territoire
-de départ.
+acquis — sauf exception : si un camp occupe sans interruption une région
+ciblée pendant assez de cycles d’affilée, elle est **capturée pour de
+bon**, immédiatement, sans attendre la fin du conflit. Une bataille à
+force strictement égale ne fait gagner ni perdre aucune occupation. En
+dehors de ces captures ponctuelles, le reste du territoire disputé est
+réparti à la fin du conflit selon les points de victoire accumulés par
+chaque camp. Le vainqueur ne perd jamais de territoire ; un pays ne peut
+jamais descendre sous un plancher minimal de son territoire de départ.
 
 ## Fin de guerre
 
