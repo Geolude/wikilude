@@ -29,5 +29,7 @@ pseudo en jeu, sans deviner qui se cache derrière quel pseudo Discord.
 Si tu changes ton nom d’utilisateur sur Geolude, ton pseudo Discord est
 actualisé à son tour.
 
-> À ce jour, la liaison ne fait que ce renommage de pseudo. D’autres
-> usages (rôles) sont à l’étude mais pas encore actifs.
+> À ce jour, la liaison ne fait que ce renommage de pseudo (à l’exception du
+> compte super-administrateur, que le bot Discord ne peut pas renommer :
+> c’est l’owner du serveur). D’autres usages (rôles) sont à l’étude mais pas
+> encore actifs.
