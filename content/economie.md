@@ -38,12 +38,13 @@ capacité limite.
 
 ## Dépenses et budgets
 
-Ton revenu net finance tes dépenses fixes (entretien de l’armée, cotisation
-d’alliance, coût de gouvernement), puis tu répartis ce qui reste entre
-santé, éducation, environnement et recherche. L’armée n’est pas un poste de
+Ton revenu net (le coût de gouvernement est déjà déduit en amont) finance
+l’entretien de l’armée, puis tu répartis ce qui reste entre santé,
+éducation, environnement et recherche. L’armée n’est pas un poste de
 budget en pourcentage : elle se recrute par un coût ponctuel et
-s’entretient ensuite par un coût récurrent par soldat engagé. Ce qui n’est
-pas dépensé s’accumule en trésorerie.
+s’entretient ensuite par un coût récurrent par soldat recruté, qu’il soit
+déployé sur un front ou non. Ce qui n’est pas dépensé s’accumule en
+trésorerie.
 
 Si tu répartis **100 % de ton revenu net disponible** entre les 4 budgets,
 tout part en dépenses : la courbe « Résultat de cycle » de l’écran
@@ -54,13 +55,14 @@ trésorerie s’accumuler.
 
 Si tu es membre d’une alliance, une **cotisation** (10 % par défaut,
 réglable par le président de l’alliance) est prélevée en **Geos** sur ton
-revenu net et versée à la trésorerie commune. Elle ne s’applique jamais à
-un revenu négatif.
+revenu net et versée à la trésorerie commune. Elle comprend un **forfait
+minimum par membre**, dû même à revenu net nul ou négatif — seule la part
+proportionnelle au revenu net s’annule dans ce cas.
 
-Il n’y a **pas d’emprunt ni de faillite** : ta trésorerie peut rester
-négative sans limite. Un déficit prolongé déclenche simplement un malus
-« Déficit budgétaire » sur ton bonheur, tant que tu ne rééquilibres pas
-tes dépenses.
+Il n’y a **pas d’emprunt ni de faillite** : ta trésorerie ne peut jamais
+descendre sous 0. En revanche, dépenser plus que ton revenu net du cycle
+(budgets + entretien militaire) déclenche un malus « Déficit budgétaire »
+sur ton bonheur, indépendamment du niveau de ta trésorerie.
 
 Ta trésorerie peut aussi bouger pour d’autres raisons que tes budgets et
 ton armée : entretien de ta Merveille, entretien lié à ton empreinte
