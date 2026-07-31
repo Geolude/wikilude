@@ -45,6 +45,12 @@ budget en pourcentage : elle se recrute par un coût ponctuel et
 s’entretient ensuite par un coût récurrent par soldat engagé. Ce qui n’est
 pas dépensé s’accumule en trésorerie.
 
+Ta trésorerie peut aussi bouger pour d’autres raisons que tes budgets et
+ton armée : entretien de ta Merveille, entretien lié à ton empreinte
+carbone, événement national ou régional, ou complot d’un conseiller.
+L’écran Économie détaille chacune de ces sources dès qu’elle joue, et
+affiche l’équilibre réel de ton trésor pour le cycle.
+
 ## Inflation
 
 Une trésorerie trop confortable par rapport à ton revenu se fait
