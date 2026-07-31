@@ -45,6 +45,16 @@ budget en pourcentage : elle se recrute par un coût ponctuel et
 s’entretient ensuite par un coût récurrent par soldat engagé. Ce qui n’est
 pas dépensé s’accumule en trésorerie.
 
+Si tu es membre d’une alliance, une **cotisation** (10 % par défaut,
+réglable par le président de l’alliance) est prélevée en **Geos** sur ton
+revenu net et versée à la trésorerie commune. Elle ne s’applique jamais à
+un revenu négatif.
+
+Il n’y a **pas d’emprunt ni de faillite** : ta trésorerie peut rester
+négative sans limite. Un déficit prolongé déclenche simplement un malus
+« Déficit budgétaire » sur ton bonheur, tant que tu ne rééquilibres pas
+tes dépenses.
+
 Ta trésorerie peut aussi bouger pour d’autres raisons que tes budgets et
 ton armée : entretien de ta Merveille, entretien lié à ton empreinte
 carbone, événement national ou régional, ou complot d’un conseiller.
