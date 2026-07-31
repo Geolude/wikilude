@@ -12,11 +12,14 @@ agriculture et accélère la désertification de ton territoire.
 
 ## D’où elle vient, et ce qui l’atténue
 
-Plus ton **industrie** est développée technologiquement, plus elle
-pollue : c’est la contrepartie de son fort rendement. Tes **forêts**
-réduisent la pollution de façon exponentielle : chaque tranche de forêt
-supplémentaire compte plus que la précédente. Une part de mer aide aussi,
-plus modestement.
+Ta **population qui travaille** — dans l’industrie surtout, mais aussi
+dans le commerce et l’agriculture à des degrés moindres — produit de la
+pollution en fonction de son **occupation réelle** des zones bâties :
+une zone industrielle construite mais vide ne pollue quasiment pas,
+alors qu’une zone pleinement occupée pollue à taux plein. Tes
+**forêts** réduisent la pollution de façon exponentielle : chaque
+tranche de forêt supplémentaire compte plus que la précédente. Une
+part de mer aide aussi, plus modestement.
 
 ## Crédits carbone
 
