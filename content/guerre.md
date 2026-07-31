@@ -47,5 +47,9 @@ Une guerre se termine par un **pacte de paix** (le territoire revient à son
 victoires consécutives), qui donne au vainqueur une part supplémentaire du
 territoire restant du perdant.
 
+Ouvrir plusieurs fronts sur une même guerre n’accélère pas mécaniquement
+cette victoire : l’écart de points et le seuil requis sont multipliés par
+le nombre de fronts actifs de la guerre.
+
 > Les seuils exacts (plafonds de guerres, points de victoire nécessaires,
 > plancher territorial) sont réglables par partie.
