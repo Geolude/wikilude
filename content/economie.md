@@ -45,6 +45,13 @@ budget en pourcentage : elle se recrute par un coût ponctuel et
 s’entretient ensuite par un coût récurrent par soldat engagé. Ce qui n’est
 pas dépensé s’accumule en trésorerie.
 
+Si tu répartis **100 % de ton revenu net disponible** entre les 4 budgets,
+tout part en dépenses : la courbe « Résultat de cycle » de l’écran
+Économie reste alors plate, même si ton revenu (impôts compris)
+progresse. C’est normal, pas un bug — regarde le détail des dépenses par
+budget pour voir où part l’argent, ou baisse un budget pour laisser de la
+trésorerie s’accumuler.
+
 Si tu es membre d’une alliance, une **cotisation** (10 % par défaut,
 réglable par le président de l’alliance) est prélevée en **Geos** sur ton
 revenu net et versée à la trésorerie commune. Elle ne s’applique jamais à
