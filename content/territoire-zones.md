@@ -33,6 +33,13 @@ secteur économique : résidentielle (population), agricole, industrielle,
 commerciale. Une zone non affectée attend qu’un Urbaniste lui donne un
 usage.
 
+Réaffecter une zone (changer son usage) est limité à un **budget national
+partagé** par cycle, pas un quota cumulable par Urbaniste : posséder
+plusieurs Urbanistes ne débloque pas plus de réaffectations, seul un
+Urbaniste disponible est nécessaire pour actionner le levier. Ta
+**capitale**, tant qu’elle est tenue et non assiégée, échappe à ce budget :
+tu peux toujours y réaffecter des zones même le budget national épuisé.
+
 ## Capitale
 
 Une de tes régions est désignée **capitale**. Tant qu’elle est tenue,
